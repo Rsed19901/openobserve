@@ -1,4 +1,4 @@
-<p align="center">
+rsed<p align="center">
   <a href="https://openobserve.ai"><img src="https://openobserve.ai/img/logo/logo_horizontal.svg" alt="OpenObserve"></a>
 </p>
 <p align="center">
